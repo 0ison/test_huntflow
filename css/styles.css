@@ -379,6 +379,9 @@ body {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     width: 100%;
   }
+  .results__inner .results__item:last-child {
+    border-bottom: none;
+  }
   .banner__tag {
     font-size: 0.88rem;
   }
